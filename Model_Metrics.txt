@@ -1,0 +1,102 @@
+======================================================================
+CAPSTONE TWO — FINAL MODEL METRICS
+Predicting Residential Solar Adoption Across U.S. Counties
+Colin Segura | Springboard Data Science Career Track
+======================================================================
+
+FINAL MODEL
+----------------------------------------------------------------------
+Model type:           GradientBoostingRegressor
+Model name:           Gradient Boosting (tuned)
+Target variable:      log1p(installs_per_1k_oo_hh)
+Interpreted as:       installs per 1,000 owner-occupied households
+Number of features:   28
+
+HYPERPARAMETERS (best from GridSearchCV, 5-fold)
+----------------------------------------------------------------------
+  learning_rate: 0.1
+  loss: squared_error
+  max_depth: 2
+  max_features: None
+  min_samples_leaf: 1
+  min_samples_split: 2
+  n_estimators: 300
+  random_state: 42
+  subsample: 1.0
+
+PERFORMANCE METRICS
+----------------------------------------------------------------------
+5-fold cross-validation (training set, raw target scale):
+  CV RMSE:  0.6304  (std: 0.4754)
+
+Held-out test set (10 counties):
+  Test RMSE: 0.9198
+  Test R²:   0.7571
+
+FEATURES (28 total)
+----------------------------------------------------------------------
+   1. median_household_income
+   2. log_population
+   3. housing_age
+   4. residential_price_cents_kwh
+   5. median_system_size_kw
+   6. median_cost_per_watt
+   7. income_was_missing
+   8. year_built_was_missing
+   9. state_CA
+  10. state_CO
+  11. state_CT
+  12. state_FL
+  13. state_GA
+  14. state_IL
+  15. state_MA
+  16. state_MD
+  17. state_MI
+  18. state_NC
+  19. state_NJ
+  20. state_NV
+  21. state_NY
+  22. state_OH
+  23. state_OR
+  24. state_PA
+  25. state_TX
+  26. state_UT
+  27. state_VA
+  28. state_WA
+
+TOP 10 FEATURES BY IMPORTANCE
+----------------------------------------------------------------------
+   1. log_population                       0.8043
+   2. residential_price_cents_kwh          0.0457
+   3. state_CA                             0.0448
+   4. median_system_size_kw                0.0235
+   5. housing_age                          0.0230
+   6. median_cost_per_watt                 0.0226
+   7. median_household_income              0.0183
+   8. state_MA                             0.0078
+   9. state_PA                             0.0034
+  10. state_NY                             0.0020
+
+DATA PIPELINE
+----------------------------------------------------------------------
+Raw sources:
+  1. LBNL Tracking the Sun (installation-level residential PV)
+  2. U.S. Census ACS (county-level demographics)
+  3. EIA Open Data (state-level residential electricity prices)
+
+Pre-processing:
+  - Median imputation of missing values with missing-indicator flags
+  - Engineered: log_population, housing_age, log1p_target
+  - One-hot encoding of state (20 dummy columns, drop_first=True)
+  - StandardScaler fit on training set only, applied to both partitions
+  - 80/20 train/test split, random_state=42
+
+TRAINING DATA
+----------------------------------------------------------------------
+  Training rows: 40 counties
+  Test rows:     10 counties
+  Feature count: 28
+
+======================================================================
+For full pipeline details see notebooks/ in the project repository.
+======================================================================

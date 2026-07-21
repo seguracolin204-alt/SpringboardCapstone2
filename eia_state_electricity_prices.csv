@@ -1,0 +1,190 @@
+period,stateid,stateDescription,sectorid,sectorName,price,price-units
+2015,AZ,Arizona,RES,residential,12.63,cents per kilowatthour
+2016,AZ,Arizona,RES,residential,12.12,cents per kilowatthour
+2017,AZ,Arizona,RES,residential,13.19,cents per kilowatthour
+2018,AZ,Arizona,RES,residential,11.84,cents per kilowatthour
+2019,AZ,Arizona,RES,residential,13.6,cents per kilowatthour
+2020,AZ,Arizona,RES,residential,13.86,cents per kilowatthour
+2021,AZ,Arizona,RES,residential,15.11,cents per kilowatthour
+2022,AZ,Arizona,RES,residential,14.71,cents per kilowatthour
+2023,AZ,Arizona,RES,residential,15.09,cents per kilowatthour
+2015,CA,California,RES,residential,26.73,cents per kilowatthour
+2016,CA,California,RES,residential,27.91,cents per kilowatthour
+2017,CA,California,RES,residential,26.92,cents per kilowatthour
+2018,CA,California,RES,residential,27.89,cents per kilowatthour
+2019,CA,California,RES,residential,28.37,cents per kilowatthour
+2020,CA,California,RES,residential,27.76,cents per kilowatthour
+2021,CA,California,RES,residential,29.69,cents per kilowatthour
+2022,CA,California,RES,residential,28.78,cents per kilowatthour
+2023,CA,California,RES,residential,30.79,cents per kilowatthour
+2015,CO,Colorado,RES,residential,12.01,cents per kilowatthour
+2016,CO,Colorado,RES,residential,12.96,cents per kilowatthour
+2017,CO,Colorado,RES,residential,13.89,cents per kilowatthour
+2018,CO,Colorado,RES,residential,15.11,cents per kilowatthour
+2019,CO,Colorado,RES,residential,13.89,cents per kilowatthour
+2020,CO,Colorado,RES,residential,14.22,cents per kilowatthour
+2021,CO,Colorado,RES,residential,15.67,cents per kilowatthour
+2022,CO,Colorado,RES,residential,15.55,cents per kilowatthour
+2023,CO,Colorado,RES,residential,16.18,cents per kilowatthour
+2015,CT,Connecticut,RES,residential,26.05,cents per kilowatthour
+2016,CT,Connecticut,RES,residential,26.18,cents per kilowatthour
+2017,CT,Connecticut,RES,residential,26.49,cents per kilowatthour
+2018,CT,Connecticut,RES,residential,28.03,cents per kilowatthour
+2019,CT,Connecticut,RES,residential,26.63,cents per kilowatthour
+2020,CT,Connecticut,RES,residential,26.95,cents per kilowatthour
+2021,CT,Connecticut,RES,residential,27.66,cents per kilowatthour
+2022,CT,Connecticut,RES,residential,29.65,cents per kilowatthour
+2023,CT,Connecticut,RES,residential,30.25,cents per kilowatthour
+2015,FL,Florida,RES,residential,12.77,cents per kilowatthour
+2016,FL,Florida,RES,residential,11.51,cents per kilowatthour
+2017,FL,Florida,RES,residential,13.42,cents per kilowatthour
+2018,FL,Florida,RES,residential,13.37,cents per kilowatthour
+2019,FL,Florida,RES,residential,13.26,cents per kilowatthour
+2020,FL,Florida,RES,residential,15.1,cents per kilowatthour
+2021,FL,Florida,RES,residential,15.47,cents per kilowatthour
+2022,FL,Florida,RES,residential,14.64,cents per kilowatthour
+2023,FL,Florida,RES,residential,16.04,cents per kilowatthour
+2015,GA,Georgia,RES,residential,10.88,cents per kilowatthour
+2016,GA,Georgia,RES,residential,11.68,cents per kilowatthour
+2017,GA,Georgia,RES,residential,11.22,cents per kilowatthour
+2018,GA,Georgia,RES,residential,11.96,cents per kilowatthour
+2019,GA,Georgia,RES,residential,11.97,cents per kilowatthour
+2020,GA,Georgia,RES,residential,12.96,cents per kilowatthour
+2021,GA,Georgia,RES,residential,12.58,cents per kilowatthour
+2022,GA,Georgia,RES,residential,15.64,cents per kilowatthour
+2023,GA,Georgia,RES,residential,14.08,cents per kilowatthour
+2015,IL,Illinois,RES,residential,13.23,cents per kilowatthour
+2016,IL,Illinois,RES,residential,13.75,cents per kilowatthour
+2017,IL,Illinois,RES,residential,12.87,cents per kilowatthour
+2018,IL,Illinois,RES,residential,14.53,cents per kilowatthour
+2019,IL,Illinois,RES,residential,14.19,cents per kilowatthour
+2020,IL,Illinois,RES,residential,15.15,cents per kilowatthour
+2021,IL,Illinois,RES,residential,15.39,cents per kilowatthour
+2022,IL,Illinois,RES,residential,15.64,cents per kilowatthour
+2023,IL,Illinois,RES,residential,15.75,cents per kilowatthour
+2015,MA,Massachusetts,RES,residential,28.09,cents per kilowatthour
+2016,MA,Massachusetts,RES,residential,28.6,cents per kilowatthour
+2017,MA,Massachusetts,RES,residential,28.49,cents per kilowatthour
+2018,MA,Massachusetts,RES,residential,28.74,cents per kilowatthour
+2019,MA,Massachusetts,RES,residential,28.36,cents per kilowatthour
+2020,MA,Massachusetts,RES,residential,29.6,cents per kilowatthour
+2021,MA,Massachusetts,RES,residential,29.46,cents per kilowatthour
+2022,MA,Massachusetts,RES,residential,29.04,cents per kilowatthour
+2023,MA,Massachusetts,RES,residential,30.2,cents per kilowatthour
+2015,MD,Maryland,RES,residential,13.21,cents per kilowatthour
+2016,MD,Maryland,RES,residential,14.28,cents per kilowatthour
+2017,MD,Maryland,RES,residential,14.23,cents per kilowatthour
+2018,MD,Maryland,RES,residential,14.43,cents per kilowatthour
+2019,MD,Maryland,RES,residential,14.84,cents per kilowatthour
+2020,MD,Maryland,RES,residential,15.88,cents per kilowatthour
+2021,MD,Maryland,RES,residential,15.1,cents per kilowatthour
+2022,MD,Maryland,RES,residential,16.19,cents per kilowatthour
+2023,MD,Maryland,RES,residential,17.19,cents per kilowatthour
+2015,MI,Michigan,RES,residential,16.17,cents per kilowatthour
+2016,MI,Michigan,RES,residential,16.4,cents per kilowatthour
+2017,MI,Michigan,RES,residential,16.79,cents per kilowatthour
+2018,MI,Michigan,RES,residential,16.18,cents per kilowatthour
+2019,MI,Michigan,RES,residential,17.82,cents per kilowatthour
+2020,MI,Michigan,RES,residential,17.36,cents per kilowatthour
+2021,MI,Michigan,RES,residential,18.56,cents per kilowatthour
+2022,MI,Michigan,RES,residential,18.56,cents per kilowatthour
+2023,MI,Michigan,RES,residential,20.48,cents per kilowatthour
+2015,NC,North Carolina,RES,residential,10.42,cents per kilowatthour
+2016,NC,North Carolina,RES,residential,9.68,cents per kilowatthour
+2017,NC,North Carolina,RES,residential,11.36,cents per kilowatthour
+2018,NC,North Carolina,RES,residential,10.96,cents per kilowatthour
+2019,NC,North Carolina,RES,residential,12.45,cents per kilowatthour
+2020,NC,North Carolina,RES,residential,13.14,cents per kilowatthour
+2021,NC,North Carolina,RES,residential,12.43,cents per kilowatthour
+2022,NC,North Carolina,RES,residential,13.59,cents per kilowatthour
+2023,NC,North Carolina,RES,residential,13.95,cents per kilowatthour
+2015,NJ,New Jersey,RES,residential,16.07,cents per kilowatthour
+2016,NJ,New Jersey,RES,residential,16.81,cents per kilowatthour
+2017,NJ,New Jersey,RES,residential,18.34,cents per kilowatthour
+2018,NJ,New Jersey,RES,residential,17.8,cents per kilowatthour
+2019,NJ,New Jersey,RES,residential,18.1,cents per kilowatthour
+2020,NJ,New Jersey,RES,residential,18.8,cents per kilowatthour
+2021,NJ,New Jersey,RES,residential,18.91,cents per kilowatthour
+2022,NJ,New Jersey,RES,residential,19.41,cents per kilowatthour
+2023,NJ,New Jersey,RES,residential,20.18,cents per kilowatthour
+2015,NV,Nevada,RES,residential,11.9,cents per kilowatthour
+2016,NV,Nevada,RES,residential,13.8,cents per kilowatthour
+2017,NV,Nevada,RES,residential,13.59,cents per kilowatthour
+2018,NV,Nevada,RES,residential,13.03,cents per kilowatthour
+2019,NV,Nevada,RES,residential,13.58,cents per kilowatthour
+2020,NV,Nevada,RES,residential,13.15,cents per kilowatthour
+2021,NV,Nevada,RES,residential,13.84,cents per kilowatthour
+2022,NV,Nevada,RES,residential,14.59,cents per kilowatthour
+2023,NV,Nevada,RES,residential,15.62,cents per kilowatthour
+2015,NY,New York,RES,residential,20.72,cents per kilowatthour
+2016,NY,New York,RES,residential,21.05,cents per kilowatthour
+2017,NY,New York,RES,residential,21.08,cents per kilowatthour
+2018,NY,New York,RES,residential,20.96,cents per kilowatthour
+2019,NY,New York,RES,residential,21.69,cents per kilowatthour
+2020,NY,New York,RES,residential,22.17,cents per kilowatthour
+2021,NY,New York,RES,residential,23.26,cents per kilowatthour
+2022,NY,New York,RES,residential,24.23,cents per kilowatthour
+2023,NY,New York,RES,residential,23.19,cents per kilowatthour
+2015,OH,Ohio,RES,residential,11.59,cents per kilowatthour
+2016,OH,Ohio,RES,residential,12.95,cents per kilowatthour
+2017,OH,Ohio,RES,residential,12.2,cents per kilowatthour
+2018,OH,Ohio,RES,residential,13.22,cents per kilowatthour
+2019,OH,Ohio,RES,residential,12.31,cents per kilowatthour
+2020,OH,Ohio,RES,residential,14.73,cents per kilowatthour
+2021,OH,Ohio,RES,residential,13.51,cents per kilowatthour
+2022,OH,Ohio,RES,residential,13.82,cents per kilowatthour
+2023,OH,Ohio,RES,residential,15.78,cents per kilowatthour
+2015,OR,Oregon,RES,residential,10.57,cents per kilowatthour
+2016,OR,Oregon,RES,residential,9.92,cents per kilowatthour
+2017,OR,Oregon,RES,residential,11.07,cents per kilowatthour
+2018,OR,Oregon,RES,residential,11.55,cents per kilowatthour
+2019,OR,Oregon,RES,residential,10.89,cents per kilowatthour
+2020,OR,Oregon,RES,residential,11.35,cents per kilowatthour
+2021,OR,Oregon,RES,residential,12.98,cents per kilowatthour
+2022,OR,Oregon,RES,residential,13.2,cents per kilowatthour
+2023,OR,Oregon,RES,residential,12.52,cents per kilowatthour
+2015,PA,Pennsylvania,RES,residential,13.64,cents per kilowatthour
+2016,PA,Pennsylvania,RES,residential,14.54,cents per kilowatthour
+2017,PA,Pennsylvania,RES,residential,14.6,cents per kilowatthour
+2018,PA,Pennsylvania,RES,residential,14.71,cents per kilowatthour
+2019,PA,Pennsylvania,RES,residential,14.85,cents per kilowatthour
+2020,PA,Pennsylvania,RES,residential,16.01,cents per kilowatthour
+2021,PA,Pennsylvania,RES,residential,16.05,cents per kilowatthour
+2022,PA,Pennsylvania,RES,residential,16.43,cents per kilowatthour
+2023,PA,Pennsylvania,RES,residential,16.97,cents per kilowatthour
+2015,TX,Texas,RES,residential,12.95,cents per kilowatthour
+2016,TX,Texas,RES,residential,11.61,cents per kilowatthour
+2017,TX,Texas,RES,residential,12.89,cents per kilowatthour
+2018,TX,Texas,RES,residential,13.8,cents per kilowatthour
+2019,TX,Texas,RES,residential,14.12,cents per kilowatthour
+2020,TX,Texas,RES,residential,15.58,cents per kilowatthour
+2021,TX,Texas,RES,residential,15.0,cents per kilowatthour
+2022,TX,Texas,RES,residential,15.96,cents per kilowatthour
+2023,TX,Texas,RES,residential,16.11,cents per kilowatthour
+2015,UT,Utah,RES,residential,10.38,cents per kilowatthour
+2016,UT,Utah,RES,residential,9.99,cents per kilowatthour
+2017,UT,Utah,RES,residential,9.83,cents per kilowatthour
+2018,UT,Utah,RES,residential,12.08,cents per kilowatthour
+2019,UT,Utah,RES,residential,11.35,cents per kilowatthour
+2020,UT,Utah,RES,residential,11.6,cents per kilowatthour
+2021,UT,Utah,RES,residential,11.48,cents per kilowatthour
+2022,UT,Utah,RES,residential,12.9,cents per kilowatthour
+2023,UT,Utah,RES,residential,11.27,cents per kilowatthour
+2015,VA,Virginia,RES,residential,10.55,cents per kilowatthour
+2016,VA,Virginia,RES,residential,10.88,cents per kilowatthour
+2017,VA,Virginia,RES,residential,11.59,cents per kilowatthour
+2018,VA,Virginia,RES,residential,12.5,cents per kilowatthour
+2019,VA,Virginia,RES,residential,13.51,cents per kilowatthour
+2020,VA,Virginia,RES,residential,13.35,cents per kilowatthour
+2021,VA,Virginia,RES,residential,14.48,cents per kilowatthour
+2022,VA,Virginia,RES,residential,15.65,cents per kilowatthour
+2023,VA,Virginia,RES,residential,14.85,cents per kilowatthour
+2015,WA,Washington,RES,residential,9.23,cents per kilowatthour
+2016,WA,Washington,RES,residential,9.49,cents per kilowatthour
+2017,WA,Washington,RES,residential,9.65,cents per kilowatthour
+2018,WA,Washington,RES,residential,9.03,cents per kilowatthour
+2019,WA,Washington,RES,residential,10.2,cents per kilowatthour
+2020,WA,Washington,RES,residential,10.08,cents per kilowatthour
+2021,WA,Washington,RES,residential,11.26,cents per kilowatthour
+2022,WA,Washington,RES,residential,11.63,cents per kilowatthour
+2023,WA,Washington,RES,residential,11.53,cents per kilowatthour
